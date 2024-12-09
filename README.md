@@ -53,4 +53,4 @@
 
 [![Linkedin](https://img.shields.io/badge/-leonardo-adriano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/leonardo-adriano-54070733b)](linkedin.com/in/leonardo-adriano-54070733b)
 [![Gmail Badge](https://img.shields.io/badge/-leonardoadsilva2006@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonardoadsilva2006@gmail.com)](mailto:leonardoadsilva2006@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)]([github.com/DelValle0012)](github.com/DelValle0012))
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)]([github.com/DelValle0012](github.com/DelValle0012)
